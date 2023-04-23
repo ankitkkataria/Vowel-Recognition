@@ -1,5 +1,4 @@
 # Vowel-Recognition
-ReadMe
 Some important points 
 All the files and folders in my zip file should be in the same directory in order for the code to work well. 
 This zip file doesn't contain the cooledit software i've used to record these vowels.
